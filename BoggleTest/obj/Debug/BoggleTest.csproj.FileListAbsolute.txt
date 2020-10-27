@@ -1,0 +1,7 @@
+C:\Users\cschroeder\source\repos\BoggleTest\bin\Debug\BoggleTest.exe.config
+C:\Users\cschroeder\source\repos\BoggleTest\bin\Debug\BoggleTest.exe
+C:\Users\cschroeder\source\repos\BoggleTest\bin\Debug\BoggleTest.pdb
+C:\Users\cschroeder\source\repos\BoggleTest\obj\Debug\BoggleTest.csprojAssemblyReference.cache
+C:\Users\cschroeder\source\repos\BoggleTest\obj\Debug\BoggleTest.csproj.CoreCompileInputs.cache
+C:\Users\cschroeder\source\repos\BoggleTest\obj\Debug\BoggleTest.exe
+C:\Users\cschroeder\source\repos\BoggleTest\obj\Debug\BoggleTest.pdb
